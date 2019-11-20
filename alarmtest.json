@@ -1,0 +1,42 @@
+{
+	"action": "Update",
+	"type": "alert",
+	"resource": {
+		"id": 154517567,
+		"name": "HP_SPC_SessionInfo-2018.002.17",
+		"alertTypeId": 168921,
+		"count": 2,
+		"amoName": "SOLKTXESW04vSPCx-C-HP-RAD-02_vspc_wifiauthinterface_solktxesw04vspcx-c-hp-rad-02_ovo",
+		"amoId": 6767932,
+		"amoClass": "HP_OVO_MOs",
+		"amoClassId": 4771,
+		"managerName": "HP_OVO_HP",
+		"managerId": 4727299,
+		"managerClass": "HP_OVO",
+		"managerClassId": 4402,
+		"created": "2019-11-18T11:52:24.000-0600",
+		"updated": "2019-11-18T11:52:24.000-0600",
+		"severity": "Critical",
+		"description": "Database Operation : Default Error in LookupMonitor_ActiveSessforMDNSessionStore : Query Error :: LogMsgKey_String=null, SPC_AlarmUniqueIDString=2018.002.17, log_DB_Operation=QUERY, log_Table_Name=SPC_MONITORING_SESSIONS, SPC_WifiQryErrorCodeString=java.",
+		"ackOperatorId": 0,
+		"clearOperatorId": 0,
+		"status": "Active",
+		"extendedProperties": {
+			"P2PGatewayName": "TXSLHPOMiPA3_WEST_OVIE_LEG_GW1",
+			"p2pAlertName": "HP_SPC_SessionInfo-2018.002.17",
+			"p2pAMO": "SOLKTXESW04vSPCx-C-HP-RAD-02_vspc_wifiauthinterface_solktxesw04vspcx-c-hp-rad-02_ovo",
+			"p2pAlertSeverity": "critical",
+			"P2PSite": "txslvsmwpg78",
+			"p2pAlertDescription": "Database Operation : Default Error in LookupMonitor_ActiveSessforMDNSessionStore : Query Error :: LogMsgKey_String=null, SPC_AlarmUniqueIDString=2018.002.17, log_DB_Operation=QUERY, log_Table_Name=SPC_MONITORING_SESSIONS, SPC_WifiQryErrorCodeString=java.",
+			"P2PAlertStatus": "0",
+			"P2PAlertStatusMsg": "",
+			"ShowAlert": "",
+			"P2PMgrClass": "HP_OVO",
+			"P2PManager": "HP_OVO_HP"
+		},
+		"correlatesCount": 0,
+		"correlatedCount": 0,
+		"correlated": false
+	},
+	"time": "2019-11-18T12:07:26.253-0600"
+}

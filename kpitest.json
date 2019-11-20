@@ -1,0 +1,18 @@
+{
+	"deviceId": 105163,
+	"deviceName": "ems-Affirmed: BRHOALTBvPDG-L-AN-S-01",
+	"deviceIp": "Unknown",
+	"peerId": 31,
+	"objectId": 204444,
+	"objectName": "Affirmed EPDGAPNCALLPERFSTATSGRID-ims",
+	"objectDesc": "",
+	"pluginId": 17,
+	"pluginName": "xStats",
+	"indicatorId": 2692485,
+	"indicatorName": "NumCurrentSessions",
+	"format": 0,
+	"value": "894357.0",
+	"time": 1570678500.0,
+	"clusterName": "SDB1-0-2B",
+	"peerIp": "10.133.179.111"
+}
